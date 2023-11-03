@@ -14,3 +14,9 @@ If a date column is specified, only the year is kept.
 
 ## Author
 Yuehao Wang
+
+## Engage with the repository
+
+1. Begin by cloning this repository.
+2. Ensure that both dplyr and testthat are installed on your system.
+3. Don't overlook the explanations provided; they shed light on the rationale behind each operation.
